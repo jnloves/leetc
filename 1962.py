@@ -19,3 +19,8 @@ class Solution:
         for item in piles:
             stones += item
         return -stones
+    
+    """
+    Runtime: 70.84%
+    Memory: 9.61% :(
+    """
